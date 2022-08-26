@@ -10,4 +10,4 @@ This is a project from course. Its allow to add what user type in input and what
   npm install
 ```
 
-WatchLive - [WatchLive](https://serene-scone-4d2cde.netlify.app/)
+Watch Live - [Netlify](https://serene-scone-4d2cde.netlify.app/)

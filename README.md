@@ -3,6 +3,9 @@ This is a project from course. Its allow to add what user type in input and what
 
 App its working with json-server instaled localy on. So you can download file from respository and use fetch data from the server.
 
+### Spinner
+Here is added spinner to loading when data are fetched from the server. Json-server is local so it's not working on live-version. If click on live server you will see a spinner.
+
 
 # Usage
 
